@@ -1,6 +1,6 @@
-﻿WELCOME TO NEWTON-RHAPSON POLYNOMIAL ROOT FINDER
+﻿WELCOME TO NEWTON-RAPHSON POLYNOMIAL ROOT FINDER
 
-This program will take any n-degree polynomial and will try to find a root by Newton-Rhapson method.
+This program will take any n-degree polynomial and will try to find a root by Newton-Raphson method.
 
 
 INSTRUCTIONS:
