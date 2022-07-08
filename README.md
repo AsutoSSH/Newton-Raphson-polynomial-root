@@ -67,7 +67,7 @@ IMPORTANT POINTS:
 
 3. If your polynomial has multiple roots and two of them are for example say 2.34 and 56.65. If you set initial value as 1 then there is higher probability that the root will come out as 2.34. However if you set initial value as 50 then the program finding 56.65 as root has higher chance.
 
-In short the closer a root is to your initial value the higher the probability that the program will tend to find that root. Hence as said above if you want to find a negative root try a negative number.
+	In short the closer a root is to your initial value the higher the probability that the program will tend to find that root. Hence as said above if 	    you want to find a negative root try a negative number.
 
 4. While entering the coefficients, you have to enter all coeeficients mandatorily. See the general form equation for reference. If you want a term to not have a coefficient enter 0 as the coefficient for that place.(See example 2).
 
