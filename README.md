@@ -22,7 +22,7 @@ root. More info stated at the end.
        
 EXAMPLES(terminal outputs):
 
-1) STANDARD CASE (1 root)
+1) STANDARD CASE (1 root):
 
 	Enter degree of polynomial:3
 	General Form: ax^3+bx^2+cx+d
@@ -32,7 +32,7 @@ EXAMPLES(terminal outputs):
 	One of the roots(if multiple present): 4.91225
 	Verififcation: P(found root or closest value) = 7.67784e-09
 
-2) CASE OF a POSITIVE AND NEGATIVE ROOT
+2) CASE OF a POSITIVE AND NEGATIVE ROOT:
 
 	Enter degree of polynomial:2
 	General Form: ax^2+bx+c
@@ -45,7 +45,7 @@ EXAMPLES(terminal outputs):
 	One of the roots(if multiple present): -9
 	Verififcation: P(found root or closest value) = 1.70388e-10
 
-3) CASE OF 2 NEGATIVE ROOTS
+3) CASE OF 2 NEGATIVE ROOTS:
 
 	Enter degree of polynomial:4
 	General Form: ax^4+bx^3+cx^2+dx+e
