@@ -24,39 +24,39 @@ EXAMPLES(terminal outputs):
 
 1) STANDARD CASE (1 root)
 
-Enter degree of polynomial:3
-General Form: ax^3+bx^2+cx+d
-Enter coefficients(space separated): 3 -5 45 -456
-Your polynomial is: 3x^3-5x^2+45x-456
-Initial value: 3
-One of the roots(if multiple present): 4.91225
-Verififcation: P(found root or closest value) = 7.67784e-09
+	Enter degree of polynomial:3
+	General Form: ax^3+bx^2+cx+d
+	Enter coefficients(space separated): 3 -5 45 -456
+	Your polynomial is: 3x^3-5x^2+45x-456
+	Initial value: 3
+	One of the roots(if multiple present): 4.91225
+	Verififcation: P(found root or closest value) = 7.67784e-09
 
 2) CASE OF a POSITIVE AND NEGATIVE ROOT
 
-Enter degree of polynomial:2
-General Form: ax^2+bx+c
-Enter coefficients(space separated): 1 0 -81
-Your polynomial is: 1x^2+0x-81
-Initial value: 3
-One of the roots(if multiple present): 9
-Verififcation: P(found root or closest value) = 7.54371e-07
-Initial value: -4
-One of the roots(if multiple present): -9
-Verififcation: P(found root or closest value) = 1.70388e-10
+	Enter degree of polynomial:2
+	General Form: ax^2+bx+c
+	Enter coefficients(space separated): 1 0 -81
+	Your polynomial is: 1x^2+0x-81
+	Initial value: 3
+	One of the roots(if multiple present): 9
+	Verififcation: P(found root or closest value) = 7.54371e-07
+	Initial value: -4
+	One of the roots(if multiple present): -9
+	Verififcation: P(found root or closest value) = 1.70388e-10
 
 3) CASE OF 2 NEGATIVE ROOTS
 
-Enter degree of polynomial:4
-General Form: ax^4+bx^3+cx^2+dx+e
-Enter coefficients(space separated): 3 5 2 6 2
-Your polynomial is: 3x^4+5x^3+2x^2+6x+2
-Initial value: 3
-One of the roots(if multiple present): -0.345885
-Verififcation: P(found root or closest value) = -1.08278e-10
-Initial value: -3
-One of the roots(if multiple present): -1.79943
-Verififcation: P(found root or closest value) = 1.04883e-06
+	Enter degree of polynomial:4
+	General Form: ax^4+bx^3+cx^2+dx+e
+	Enter coefficients(space separated): 3 5 2 6 2
+	Your polynomial is: 3x^4+5x^3+2x^2+6x+2
+	Initial value: 3
+	One of the roots(if multiple present): -0.345885
+	Verififcation: P(found root or closest value) = -1.08278e-10
+	Initial value: -3
+	One of the roots(if multiple present): -1.79943
+	Verififcation: P(found root or closest value) = 1.04883e-06
 
 
 IMPORTANT POINTS:
