@@ -5,18 +5,18 @@ This program will take any n-degree polynomial and will try to find a root by Ne
 
 INSTRUCTIONS:
 
-    1. Enter the degree of polynomial (an integer preferrably less than 25 or you run out of alphabets). Then the program will display the general form of your polynomial.
+1. Enter the degree of polynomial (an integer preferrably less than 25 or you run out of alphabets). Then the program will display the general form of your polynomial.
 
-    2. Then enter all coefficients. All coefficients should be separated by a space.(Examples are given below)
-       
-    3. The program will display your polynomial according to the general form and your coefficients.
-       
-    4. Choose an initial value to start searching roots from. You can input any integer. If the program found a positive root and you want to find a negative root then enter a negative number as initial value to find the negative 
-       root. More info stated at the end.
-       
-    5. The program will display a single root. There can be multiple roots present, you have to experiment with different initial values to find them.
-       
-    6. As verification the program will find the value of P(foundroot) where P(x) is your polynomial. It will not always be 0 but a very very small number such as 1.23442E-09 or 2.4325E-10 etc. this is due to accuracy limitations of double datatype.
+2. Then enter all coefficients. All coefficients should be separated by a space.(Examples are given below)
+
+3. The program will display your polynomial according to the general form and your coefficients.
+
+4. Choose an initial value to start searching roots from. You can input any integer. If the program found a positive root and you want to find a negative root then enter a negative number as initial value to find the negative 
+root. More info stated at the end.
+
+5. The program will display a single root. There can be multiple roots present, you have to experiment with different initial values to find them.
+
+6. As verification the program will find the value of P(foundroot) where P(x) is your polynomial. It will not always be 0 but a very very small number such as 1.23442E-09 or 2.4325E-10 etc. this is due to accuracy limitations of double datatype.
 
         
        
