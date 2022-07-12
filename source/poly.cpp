@@ -45,7 +45,7 @@ int main()
         else{
             cout << "No real roots found. The Loop stopped on value: " << rt[0] << endl;
         }
-        cout << "Verififcation: P(found root or closest value) = " << Verify(rt[0],degree,coeff) << endl;
+        cout << "Verififcation: P(found root or value loop stopped on) = " << Verify(rt[0],degree,coeff) << endl;
     }
     
 }
